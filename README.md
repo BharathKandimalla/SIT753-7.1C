@@ -2,3 +2,4 @@
 SIT753 Credit Task 7.1C - Jenkins and DevSecOps
 Automatic Jenkins trigger test
 Automatic trigger demonstration
+Automatic trigger demonstration 2
